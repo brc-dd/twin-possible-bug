@@ -3,8 +3,8 @@ import "twin.macro";
 export default function Home() {
   return (
     <>
-      <div tw="componentX">Hey There</div>
-      <div className="componentX">Hey There</div>
+      <div tw="container componentX">Hey There</div>
+      <div className="container componentX">Hey There</div>
     </>
   );
 }
